@@ -33,6 +33,7 @@ Oppimistani tukisi jos asiat pysyisivät samanlaisina!
 
 ## Tietoja sovelluksesta
 Valuuttamuunnin on sovellus, joka muuttaa käyttäjän valitseman valuutan toiseksi valuutaksi, antaa tarkan päivittäisen valuuttakurssin ja antaa hintaesimerkkejä ja lisätietoa valuutoista.
+Se on tehty pääosin Vue.js-kirjaston ja ExhangeRates-API:n avulla.
 
 ## Tunnetut virheet/bugit
 Mielestäni kaikki sovelluksen ominaisuudet toimivat moitteettomasti.
