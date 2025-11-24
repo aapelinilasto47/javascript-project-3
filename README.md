@@ -39,8 +39,8 @@ Mielestäni kaikki sovelluksen ominaisuudet toimivat moitteettomasti.
 
 ## Kuvakaappaukset
 Kuva nettisivusta ennen muunnosta ja muunnoksen jälkeen
-![Kirjoittaminen](https://github.com/aapelinilasto47/javascript-project-3/blob/main/N%C3%A4ytt%C3%B6kuva%202025-11-24%20145030.png)
-![Kirjoittaminen](https://github.com/aapelinilasto47/javascript-project-3/blob/main/N%C3%A4ytt%C3%B6kuva%202025-11-24%20145050.png)
+![Sivu 1](https://github.com/aapelinilasto47/javascript-project-3/blob/main/N%C3%A4ytt%C3%B6kuva%202025-11-24%20145030.png)
+![Sivu 2](https://github.com/aapelinilasto47/javascript-project-3/blob/main/N%C3%A4ytt%C3%B6kuva%202025-11-24%20145050.png)
 
 
 Kuva: [Aapeli Nilasto](https://github.com/aapelinilasto47)
@@ -49,20 +49,22 @@ Kuva: [Aapeli Nilasto](https://github.com/aapelinilasto47)
 Käytin seuraavia teknologioita: `html`, `css`, `javascript`, `vue.js`, `bootstrap`
 
 Käytin Bootstrapia ja CSS:ää sivun tyylittelyyn.
-Käytin HTML:ää, Javascriptiä ja Vue.js-kirjastoa sivun rakentamiseen ja tietojen hakemiseen REST APIsta
+Käytin HTML:ää, Javascriptiä ja Vue.js-kirjastoa sivun rakentamiseen ja tietojen hakemiseen REST APIsta.
 
 ## Asennus
-- Avaa Netlify-sovellus selaimessasi
+- Avaa Netlify-sovellus selaimessasi 
 tai
 - lataa kaikki tiedostot ja avaa index.html selaimessasi  
-tai
-- lataa tai kloonaa repositorio  
+
 
 
 ## Kiitokset
-Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
-- [John Doe](johndoe.com)  
-- [Beginners guide to BEM](link-goes-here.com)  
+- [www.chatgpt.com](https://chatgpt.com/)
+käytin ChatGPT:tä debuggaamiseen.
+- [Github Copilot]
+käytin Github Copilotia joidenkin komentojeni automaattiseen täyttöön, joka teki koodin kirjoittamisesta sujuvampaa.
+- [NetNinja](https://www.youtube.com/watch?v=YrxBCBibVo0&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
+käytin myös NetNinja-kanavan Youtube-videoita oppiakseni Vue.js käyttöä.
 
 ## Lisenssi
 
