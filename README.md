@@ -39,8 +39,8 @@ Mielestäni kaikki sovelluksen ominaisuudet toimivat moitteettomasti.
 
 ## Kuvakaappaukset
 Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
-`![Kirjoittaminen](https://github.com/aapelinilasto47/javascript-project-3/blob/main/N%C3%A4ytt%C3%B6kuva%202025-11-24%20145050.png)`
-`![Kirjoittaminen](https://github.com/aapelinilasto47/javascript-project-3/blob/main/N%C3%A4ytt%C3%B6kuva%202025-11-24%20145030.png)`
+![Kirjoittaminen](https://github.com/aapelinilasto47/javascript-project-3/blob/main/N%C3%A4ytt%C3%B6kuva%202025-11-24%20145050.png)
+![Kirjoittaminen](https://github.com/aapelinilasto47/javascript-project-3/blob/main/N%C3%A4ytt%C3%B6kuva%202025-11-24%20145030.png)
 
 Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
