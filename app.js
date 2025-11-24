@@ -26,8 +26,9 @@ createApp({
         // haetaan valuuttakurssit ja suoritetaan muunnos
         async convertCurrency() {
             if (this.amount <= 0) {
+                this.amount = 0;
                 this.result = 'Amount must be greater than zero';
-                return;
+                
             }
             else {
                 const url = `https://api.exchangerate-api.com/v4/latest/${this.fromCurrency}`;
