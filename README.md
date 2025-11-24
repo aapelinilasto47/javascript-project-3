@@ -2,7 +2,7 @@
 Aapeli Nilasto - Valuuttamuunnin
 
 ## Verkkolinkit:
-Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://google.com)
+Pääset julkaistuun sovellukseen käsiksi osoitteessa [aapelinilasto.netlify.app](https://aapelinilasto.netlify.app/)
 Linkki projektin videoesittelyyn [google.com](https://google.com)
 
 ## Työn jakautuminen 
