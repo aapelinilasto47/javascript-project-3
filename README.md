@@ -38,24 +38,26 @@ Valuuttamuunnin on sovellus, joka muuttaa käyttäjän valitseman valuutan toise
 Mielestäni kaikki sovelluksen ominaisuudet toimivat moitteettomasti.
 
 ## Kuvakaappaukset
-Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
-![Kirjoittaminen](https://github.com/aapelinilasto47/javascript-project-3/blob/main/N%C3%A4ytt%C3%B6kuva%202025-11-24%20145050.png)
+Kuva nettisivusta ennen muunnosta ja muunnoksen jälkeen
 ![Kirjoittaminen](https://github.com/aapelinilasto47/javascript-project-3/blob/main/N%C3%A4ytt%C3%B6kuva%202025-11-24%20145030.png)
+![Kirjoittaminen](https://github.com/aapelinilasto47/javascript-project-3/blob/main/N%C3%A4ytt%C3%B6kuva%202025-11-24%20145050.png)
 
-Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+
+Kuva: [Aapeli Nilasto](https://github.com/aapelinilasto47)
 
 ## Teknologiat
 Käytin seuraavia teknologioita: `html`, `css`, `javascript`, `vue.js`, `bootstrap`
 
 Käytin Bootstrapia ja CSS:ää sivun tyylittelyyn.
-Käytin HTML:ää, Javascriptiä ja Vue.js-kirjastoa sivun rakentamiseen ja tietojen hakemiseen REST AP
+Käytin HTML:ää, Javascriptiä ja Vue.js-kirjastoa sivun rakentamiseen ja tietojen hakemiseen REST APIsta
 
 ## Asennus
-Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
+- Avaa Netlify-sovellus selaimessasi
+tai
 - lataa kaikki tiedostot ja avaa index.html selaimessasi  
+tai
 - lataa tai kloonaa repositorio  
-- suorita `npm install`  
-- ...
+
 
 ## Kiitokset
 Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
@@ -63,6 +65,6 @@ Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse my�
 - [Beginners guide to BEM](link-goes-here.com)  
 
 ## Lisenssi
-Valitse projektille lisenssi seuraamalla tätä [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
 
-Esimerkki: MIT-lisenssi @ [tekijä](author.com)
+
+MIT-lisenssi @ [Aapeli Nilasto](https://github.com/aapelinilasto47)
